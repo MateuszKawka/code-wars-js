@@ -1,4 +1,4 @@
-## Daily CodeWars #2 Friend or Foe? [7 kyu]  :white_check_mark:
+## CodeWars #2 Friend or Foe? [7 kyu]  :white_check_mark:
 
 #### Check out this [kata](http://www.codewars.com/kata/55b42574ff091733d900002f)
 
