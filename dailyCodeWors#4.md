@@ -1,4 +1,4 @@
-## Daily CodeWars #4 Create Phone Number [6 kyu]  :white_check_mark:
+## CodeWars #4 Create Phone Number [6 kyu]  :white_check_mark:
 
 #### Check out this [kata](https://www.codewars.com/kata/create-phone-number/javascript)
 
@@ -16,10 +16,10 @@ Don't forget the space after the closing parenthese!*
 
 ## My Solution:
 
-  function createPhoneNumber(numbers){
-  var left = numbers.slice(0,3);
-  var middle = numbers.slice(3,6);
-  var right = numbers.slice(6,10);
-  var fatality = "(" + left.join("") + ")" + " " + middle.join("") + "-" + right.join("");
-  return fatality;
+  function createPhoneNumber(numbers){  
+  var left = numbers.slice(0,3);    
+  var middle = numbers.slice(3,6);  
+  var right = numbers.slice(6,10);   
+  var fatality = "(" + left.join("") + ")" + " " + middle.join("") + "-" + right.join("");  
+  return fatality;  
 }
