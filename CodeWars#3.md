@@ -1,10 +1,5 @@
 
-
-
-
-
-
-## Daily CodeWars #3 Is a number prime? [6 kyu]  :white_check_mark:
+## CodeWars #3 Is a number prime? [6 kyu]  :white_check_mark:
 
 #### Check out this [kata](https://www.codewars.com/kata/is-a-number-prime/)
 
