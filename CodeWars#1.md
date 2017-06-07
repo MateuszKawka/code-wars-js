@@ -1,5 +1,5 @@
 
-## CodeWars #1 Two Joggers ![6 kyu](/img/6kyu.png)
+## CodeWars #1 Two Joggers ![6 kyu](/img/kyu6.png)
 ![code wars badge](https://www.codewars.com/users/MateuszKawka/badges/small)
 #### Check out this [kata](https://www.codewars.com/kata/5274d9d3ebc3030802000165)
 
