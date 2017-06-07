@@ -1,5 +1,6 @@
-## CodeWars #1 Two Joggers [5 kyu]  :white_check_mark:
 
+## CodeWars #1 Two Joggers [5 kyu]  :white_check_mark:
+![code wars badge](https://www.codewars.com/users/MateuszKawka/badges/small)
 #### Check out this [kata](https://www.codewars.com/kata/5274d9d3ebc3030802000165)
 
 ### Description:
